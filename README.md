@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 21yo :fr: student learning computer science by myself and at my school.
+I'm a 22yo :fr: student learning computer science by myself and at my school.
 
 :basketball: I like to play to VR games and poker, I also like hiking, skiing and coding  
 🔭 I’m currently working on [sQuiz.gg](https://squiz.gg)  
